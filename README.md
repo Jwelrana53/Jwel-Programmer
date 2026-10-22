@@ -48,7 +48,15 @@ I'm currently building my programming foundation. My projects will appear here a
 
 ## 🤝 Let's Connect
 
-* GitHub: [@Jwelrana53](https://github.com/Jwelrana53)
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jwelrana53&show_icons=true&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwelrana53&layout=compact&hide_border=true)
 
 ---
 
